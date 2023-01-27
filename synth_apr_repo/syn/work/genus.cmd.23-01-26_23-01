@@ -12,3 +12,4 @@
 
 set top_design fifo1_sramb
 source ../scripts/genus.tcl
+exit

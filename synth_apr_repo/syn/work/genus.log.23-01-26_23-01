@@ -2216,3 +2216,5 @@ Warning : Timing problems have been detected in this design. [TIM-11]
 @file(genus.tcl) 118: write_db -all_root_attributes -verbose ../outputs/${top_design}.$stage.db
 Finished exporting design database to file '../outputs/fifo1_sramb.genus.db' for 'fifo1_sramb' (command execution time mm:ss cpu = 00:00, real = 00:00).
 #@ End verbose source scripts/genus.tcl
+@genus:root: 3> exit
+Normal exit.
